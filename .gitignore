@@ -17,4 +17,4 @@ artifacts/application_train.csv
 data/
 logs/
 myenv/
-notebooks
+
